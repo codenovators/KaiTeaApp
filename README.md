@@ -1,2 +1,2 @@
 # KaiTeaApp
-Bakery App
+Bakery App Version 1.0.0
